@@ -28,12 +28,13 @@ Required libraries:
 - seaborn
 
 ### Workflow 
--Load and inspect the dataset.
--Clean and preprocess the data, including label encoding.
--Split data into training and test sets.
--Train models such as logistic regression, support vector machines, or random forest.
--Evaluate models using accuracy, confusion matrices, and classification metrics.
--Visualize feature distributions and correlations.
+
+- Load and inspect the dataset.
+- Clean and preprocess the data, including label encoding.
+- Split data into training and test sets.
+- Train models such as logistic regression, support vector machines, or random forest.
+- Evaluate models using accuracy, confusion matrices, and classification metrics.
+- Visualize feature distributions and correlations.
 
 ### Installation
 
@@ -47,4 +48,5 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook BreastCancerPS.ipynb
 ```
+
 
