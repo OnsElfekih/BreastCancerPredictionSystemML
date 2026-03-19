@@ -49,4 +49,11 @@ pip install -r requirements.txt
 jupyter notebook BreastCancerPS.ipynb
 ```
 
+---
+
+### 👩‍💻 Author
+
+**Ons ELFEKIH**  
+IT Engineering Student — Business Intelligence  
+🔗 [LinkedIn](https://www.linkedin.com/in/ons-elfekih) · [Portfolio](https://portfolio-elfekih-ons.vercel.app/)
 
